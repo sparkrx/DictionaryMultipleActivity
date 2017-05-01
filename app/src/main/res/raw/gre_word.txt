@@ -1,0 +1,10 @@
+word1   definition1
+word2   definition2
+word3   definition3
+word4   definition4
+word5   definition5
+word6   definition6
+word7   definition7
+word8   definition8
+word9   definition9
+word10   definition10
